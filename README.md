@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+Hola , soy Jesus
+Un apasionado programador y graduado en Negocios Internacionales.
+Me interesa la programación para el desarrollo web, el analisis de datos y data science.
+
+**Lenguajes y herramientas
+
+**Python
 
 <!--
 **jesusjosee/jesusjosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
