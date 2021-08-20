@@ -6,16 +6,16 @@ Un apasionado programador y graduado en Negocios Internacionales.
 > Conocí la programación cuando surgió la necesidad de crear **una pagina web para mi empresa**, en la cual utilicé html y bootstrap. Les comparto mi pagina web empresarial [Global Fast Import ](https://www.globalfastimport.com/ ).
 
 
-Mis proyectos personales 
+Me encanto hacer las cosas por mi mismo y posteriormente segui investigando sobre lenguajes del backend hasta que decidí aprender **python** y su framework **django** y empecé a crear proyectos personales que tenía en mente. ***Y Desde entonces sigo aprendiendo nuevas cosas para integrar en mis proyectos.***
+
+
+> Mis proyectos personales 
 1. [TransaleApp](https://translateapp.pythonanywhere.com/) es una aplicacion web para el aprendizaje de idiomas, sirve para guardar palabras en el idioma nativo y el idioma que se quiere aprender para estudiarlas posteriormente.
 
 2.  [Global Fast Import ](https://www.globalfastimport.com/ ) es mi pagina web empresarial.
 
 3. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de de venta de bisuteria creada para una cliente.
  
-
-Me encanto hacer las cosas por mi mismo y posteriormente segui investigando sobre lenguajes del backend hasta que decidí aprender **python** y su framework **django** y empecé a crear proyectos personales que tenía en mente. ***Y Desde entonces sigo aprendiendo nuevas cosas para integrar en mis proyectos.***
-
 
 Me interesa seguir aprendiendo la programación  para su aplicacion en el ***desarrollo web*** y posteriormente aprender más sobre los campos del ***analisis de datos y data science***, ya que son campos muy relacionados con los negocios.
 
