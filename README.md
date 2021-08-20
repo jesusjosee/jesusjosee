@@ -14,7 +14,7 @@ Me encanto hacer las cosas por mi mismo y posteriormente segui investigando sobr
 
 2.  [Global Fast Import ](https://www.globalfastimport.com/ ) es mi pagina web empresarial.
 
-3. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de de venta de bisuteria creada para una cliente.
+3. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de venta de bisuteria creada para una cliente.
  
 
 Me interesa seguir aprendiendo la programación  para su aplicacion en el ***desarrollo web*** y posteriormente aprender más sobre los campos del ***analisis de datos y data science***, ya que son campos muy relacionados con los negocios.
