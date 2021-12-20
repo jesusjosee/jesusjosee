@@ -16,9 +16,9 @@ Me encanto hacer las cosas por mi mismo y posteriormente segui investigando sobr
 
 3. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de venta de bisuteria creada para una cliente.
  
-3. [TodoApp](https://estiloencantobisuterializeth.pythonanywhere.com/) es un proyecto para realizar las tareas, en este proyecto se utilizan varias tecnologias tales como django, django restframework, y peticiones ajax con vanilla javascript .
+3. [TodoApp](https://github.com/jesusjosee/DjangoRF-Ajax-vanillajs) es un proyecto para realizar las tareas, en este proyecto se utilizan varias tecnologias tales como django, django restframework, y peticiones ajax con vanilla javascript .
 
- https://github.com/jesusjosee/DjangoRF-Ajax-vanillajs
+ 
 
 Me interesa seguir aprendiendo la programación  para su aplicacion en el ***desarrollo web*** y posteriormente aprender más sobre los campos del ***analisis de datos y data science***, ya que son campos muy relacionados con los negocios.
 
