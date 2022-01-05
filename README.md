@@ -16,7 +16,11 @@ Me encanto hacer las cosas por mi mismo y posteriormente segui investigando sobr
 
 3. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de venta de bisuteria creada para una cliente.
  
-3. [TodoApp](https://github.com/jesusjosee/DjangoRF-Ajax-vanillajs) es un proyecto para realizar las tareas, en este proyecto se utilizan varias tecnologias tales como django, django restframework, y peticiones ajax con vanilla javascript .
+4. [TodoApp](https://github.com/jesusjosee/DjangoRF-Ajax-vanillajs) es un proyecto para realizar las tareas, en este proyecto se utilizan varias tecnologias tales como django, django restframework, y peticiones ajax con vanilla javascript .
+
+5. [TecnoMarket](https://tecnomarketapp.pythonanywhere.com/) Este proyecto está hecho para una pequeña tienda para administrar sus existencias.
+
+
 
  
 
