@@ -13,17 +13,19 @@ Me encanto hacer las cosas por mi mismo y posteriormente segui investigando sobr
 
 1. [Jesus Suyon web](https://jesussuyon.pythonanywhere.com/) Este proyecto es mi pagina web personal donde muestro mis proyectos que he realizado.
 
-2. [TransaleApp](https://translateapp.pythonanywhere.com/) es una aplicacion web para el aprendizaje de idiomas, sirve para guardar palabras en el idioma nativo y el idioma que se quiere aprender para estudiarlas posteriormente.
+2. [Guia del Importador](https://guiadelimportadorxyz.pythonanywhere.com/) Se hizo un proyecto para una Web y un blog para mostrar publicaciones sobre importaciones de China. 
 
-3.  [Global Fast Import ](https://www.globalfastimport.com/ ) es mi pagina web empresarial.
+3. [TransaleApp](https://translateapp.pythonanywhere.com/) es una aplicacion web para el aprendizaje de idiomas, sirve para guardar palabras en el idioma nativo y el idioma que se quiere aprender para estudiarlas posteriormente.
 
-4. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de venta de bisuteria creada para una cliente.
+4.  [Global Fast Import ](https://www.globalfastimport.com/ ) es mi pagina web empresarial.
+
+5. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de venta de bisuteria creada para una cliente.
  
-5. [TodoApp](https://github.com/jesusjosee/DjangoRF-Ajax-vanillajs) es un proyecto para realizar las tareas, en este proyecto se utilizan varias tecnologias tales como django, django restframework, y peticiones ajax con vanilla javascript .
+6. [TodoApp](https://github.com/jesusjosee/DjangoRF-Ajax-vanillajs) es un proyecto para realizar las tareas, en este proyecto se utilizan varias tecnologias tales como django, django restframework, y peticiones ajax con vanilla javascript .
 
-6. [TecnoMarket](https://tecnomarketapp.pythonanywhere.com/) Este proyecto está hecho para una pequeña tienda para administrar sus existencias.
+7. [TecnoMarket](https://tecnomarketapp.pythonanywhere.com/) Este proyecto está hecho para una pequeña tienda para administrar sus existencias.
 
-7. [La Caffetiera](https://testwebempresa.pythonanywhere.com/) Sitio web comercial de una empresa de café.
+8. [La Caffetiera](https://testwebempresa.pythonanywhere.com/) Sitio web comercial de una empresa de café.
 
 
 
