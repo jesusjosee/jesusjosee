@@ -17,6 +17,9 @@ Me encanto hacer las cosas por mi mismo y posteriormente segui investigando sobr
 
 3. [TransaleApp](https://translateapp.pythonanywhere.com/) es una aplicacion web para el aprendizaje de idiomas, sirve para guardar palabras en el idioma nativo y el idioma que se quiere aprender para estudiarlas posteriormente.
 
+3. [Agenda RestFramework](https://github.com/jesusjosee/AgendaDjangoRestFramework) Este proyecto muestra las Apis para enumerar las tareas de una agenda, además este proyecto se realiza con django restframework.
+
+
 4.  [Global Fast Import ](https://www.globalfastimport.com/ ) es mi pagina web empresarial.
 
 5. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de venta de bisuteria creada para una cliente.
