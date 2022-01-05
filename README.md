@@ -10,15 +10,22 @@ Me encanto hacer las cosas por mi mismo y posteriormente segui investigando sobr
 
 
 > Mis proyectos personales 
-1. [TransaleApp](https://translateapp.pythonanywhere.com/) es una aplicacion web para el aprendizaje de idiomas, sirve para guardar palabras en el idioma nativo y el idioma que se quiere aprender para estudiarlas posteriormente.
 
-2.  [Global Fast Import ](https://www.globalfastimport.com/ ) es mi pagina web empresarial.
+1. [Jesus Suyon web](https://jesussuyon.pythonanywhere.com/) Este proyecto es mi pagina web personal donde muestro mis proyectos que he realizado.
 
-3. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de venta de bisuteria creada para una cliente.
+2. [TransaleApp](https://translateapp.pythonanywhere.com/) es una aplicacion web para el aprendizaje de idiomas, sirve para guardar palabras en el idioma nativo y el idioma que se quiere aprender para estudiarlas posteriormente.
+
+3.  [Global Fast Import ](https://www.globalfastimport.com/ ) es mi pagina web empresarial.
+
+4. [Bisuteria Lizeth](https://estiloencantobisuterializeth.pythonanywhere.com/) es una pagina de venta de bisuteria creada para una cliente.
  
-4. [TodoApp](https://github.com/jesusjosee/DjangoRF-Ajax-vanillajs) es un proyecto para realizar las tareas, en este proyecto se utilizan varias tecnologias tales como django, django restframework, y peticiones ajax con vanilla javascript .
+5. [TodoApp](https://github.com/jesusjosee/DjangoRF-Ajax-vanillajs) es un proyecto para realizar las tareas, en este proyecto se utilizan varias tecnologias tales como django, django restframework, y peticiones ajax con vanilla javascript .
 
-5. [TecnoMarket](https://tecnomarketapp.pythonanywhere.com/) Este proyecto está hecho para una pequeña tienda para administrar sus existencias.
+6. [TecnoMarket](https://tecnomarketapp.pythonanywhere.com/) Este proyecto está hecho para una pequeña tienda para administrar sus existencias.
+
+7. [La Caffetiera](https://testwebempresa.pythonanywhere.com/) Sitio web comercial de una empresa de café.
+
+
 
 
 
