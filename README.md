@@ -6,7 +6,7 @@ Un apasionado programador y graduado en Negocios Internacionales.
 > Conocí la programación cuando surgió la necesidad de crear **una pagina web para mi empresa**, en la cual utilicé html y bootstrap. Les comparto mi pagina web empresarial [Global Fast Import ](https://www.globalfastimport.com/ ).
 
 
-Me encantó hacer las cosas por mi mismo y posteriormente segui investigando sobre lenguajes del backend hasta que decidí aprender **python** y su framework **django** y empecé a crear proyectos personales que tenía en mente. ***Y Desde entonces sigo aprendiendo nuevas cosas para integrar en mis proyectos.***
+Me encantó hacer las cosas por mi mismo y posteriormente seguí investigando sobre lenguajes del backend hasta que decidí aprender **python** y su framework **django** y empecé a crear proyectos personales que tenía en mente. ***Y Desde entonces sigo aprendiendo nuevas cosas para integrar en mis proyectos.***
 
 
 > Mis proyectos personales 
