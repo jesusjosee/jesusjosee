@@ -8,6 +8,8 @@ Un apasionado programador y graduado en Negocios Internacionales.
 
 Me encantó hacer las cosas por mi mismo y posteriormente seguí investigando sobre lenguajes del backend hasta que decidí aprender **python** y su framework **django** y empecé a crear proyectos personales que tenía en mente. ***Y Desde entonces sigo aprendiendo nuevas cosas para integrar en mis proyectos.***
 
+Desarrollador entusiasta de Flutter para aplicaciones moviles, busco construir experiencias móviles excepcionales y cautivadoras
+
 
 > Mis proyectos personales 
 
